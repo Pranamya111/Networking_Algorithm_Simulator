@@ -1,4 +1,4 @@
-Networking Algorithm Simulator (C Language)
+#Networking Algorithm Simulator (C Language)
 
 This project is a command-line simulator that shows how several basic networking algorithms work using the C programming language. It is designed for students, educators, and enthusiasts to understand and experiment with fundamental data communication and networking methods.
 
@@ -30,3 +30,13 @@ The **Networking Algorithm Simulator** offers an interactive menu-based interfac
 
 7. **Caesar Cipher**  
    This is a simple encryption method for encoding messages by shifting characters.
+
+## How to Compile and Run
+
+### Compilation (using GCC)
+
+Make sure all '.c' and '.h' files are in the same directory.
+gcc main.c dijkstra.c bit_stuffing.c byte_stuffing.c ceaser_cipher.c crc.c leaky_bucket.c distance_vector.c -o simulator.exe
+./simulator.exe
+
+
