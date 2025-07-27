@@ -1,4 +1,4 @@
-#Networking Algorithm Simulator (C Language)
+# Networking Algorithm Simulator (C Language)
 
 This project is a command-line simulator that shows how several basic networking algorithms work using the C programming language. It is designed for students, educators, and enthusiasts to understand and experiment with fundamental data communication and networking methods.
 
